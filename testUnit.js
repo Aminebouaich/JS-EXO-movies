@@ -1,0 +1,11 @@
+
+// multi (2)
+// multi (3)
+// multi (4.5)
+// multi ("5")
+// multi (true)
+// multi (false)
+// multi ('bonjour')
+// multi ("12 billes")
+// multi (1+1)
+// multi (12^2)
